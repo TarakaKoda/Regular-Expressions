@@ -23,3 +23,6 @@ Mr. J
 """
 
 sentence = 'Start a sentence and then bring it to an end'
+
+# Raw string
+print(r"\tTab")
